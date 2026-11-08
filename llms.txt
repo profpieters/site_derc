@@ -1,0 +1,145 @@
+# Digital Economy Research and Consulting
+
+> Independent, research-grade economic analysis consulting.
+
+Plain HTML; the one script copies the email address on Connect. Contact: gcpieters@de-rc.com. All pages can be read for further details; this llms.txt summarizes and highlights them.
+
+## Pages
+
+- [Digital Economy Research and Consulting](https://www.digitaleconomyresearch.com/): Independent, research-grade economic analysis consulting.
+- [About](https://www.digitaleconomyresearch.com/about.html): Gina C. Pieters, Founder and Principal Economist: credentials, and services from economic analysis and briefings to expert witness work and AI output review.
+- [Connect](https://www.digitaleconomyresearch.com/connect.html): How an engagement works, availability, rates from $500 an hour, and how to get in touch.
+
+The following portfolio pages present my selected work in each field, the methods and tools I would bring to it, my advising and outreach, and my review and teaching. My skills are unusually broad.
+- [Digital money and assets](https://www.digitaleconomyresearch.com/portfolio-digital-money.html): How digital money, digital assets, and tokenization work and what they mean for payments, monetary policy, and financial stability, from stablecoins to CBDCs.
+- [Systematic strategy](https://www.digitaleconomyresearch.com/portfolio-systematic-strategy.html): Designing investment-strategy research and testing whether its results survive: when the parameters move, and when the strategy runs forward on unseen data.
+- [Economic analysis](https://www.digitaleconomyresearch.com/portfolio-economics.html): Core skills, tools, and knowledge in microeconomics and macroeconomics: models and simulation, data and econometrics, research and reports, talks, and courses.
+- [Teaching and evaluation](https://www.digitaleconomyresearch.com/portfolio-assessment.html): Teaching economics and evaluating work: creating problems, designing measures, grading student work, reviewing professional work, and teaching methods.
+
+## Principal
+
+Gina C. Pieters, Founder and Principal Economist. Ph.D. Economics, University of Minnesota. Previous appointments at the University of Chicago, Trinity University, and the Cambridge Centre for Alternative Finance. Currently Board Director for Monetary Policy, NABE Chicago. Full record (personal site): https://www.ginapieters.com/ with https://www.ginapieters.com/llms.txt. Every page on both sites is plain HTML, easy for agents to read beyond this file.
+
+## Services
+
+- Economic analysis and reports
+- Briefings and advisory discussions
+- Explanatory writing and talks
+- Teaching, training, curriculum, and assessment design
+- AI output review
+- Strategy and backtest review
+- Currency and token design
+- Research support for economic-consulting firms
+- Expert witness
+- Research and editorial review
+- Research programme design
+- Fractional research leadership (e.g., part-time head of research)
+- Open to discussing other services or research fields.
+
+Services are not investment, legal, tax, or accounting advice. I am not a registered investment adviser.
+
+## How an engagement works
+
+It starts with a short call to scope the question and project. We then agree on a written proposal that sets the deliverables, the timeline, and the payment schedule, and the work begins.
+
+- Format: Engagements can range from a single one-hour call, through recurring work starting at one hour a quarter, to full-time work for the length of a defined project.
+- Availability: Start dates depend on my existing commitments: sometimes I can begin later that day, and sometimes the earliest start is a few weeks away. Every proposal states the start date. Depending on scope, I may work on more than one engagement at a time.
+- Rates: From $500 an hour. The rate rises with complexity and urgency, and may fall for longer engagements. A fixed price for the whole project is also available. Reduced rates are available for academic, nonprofit, and government work.
+- Where: Based in Chicago, on US Central Time. I work remotely, and take short-term on-site contracts elsewhere.
+- Contact: gcpieters@de-rc.com
+
+I am open to considering work in fields outside my current portfolio. My current portfolio has four main segments.
+
+## Digital money and assets
+
+I have studied how digital money, digital assets, and tokenization work and what they would mean for payments, monetary policy, and financial stability, including cryptoasset markets, stablecoins, and central bank digital currencies. The page sets out, to help you judge whether I fit your project, my selected work in this field, the methods and tools I would bring to it, my advising and outreach, and my review and teaching: https://www.digitaleconomyresearch.com/portfolio-digital-money.html
+
+Selected work:
+- Academic journals, chapters, and policy writing: peer-reviewed articles ("Blockchain Governance in the Wild," Cryptoeconomic Systems; "Taxing Blockchain Forks," Stanford Journal of Blockchain Law & Policy; "Financial Regulations and Price Inconsistencies across Bitcoin Markets," Information Economics and Policy); co-editor of an Eastern Economic Journal special edition on the economics of cryptoassets; book chapters ("Digital Currencies and Central Banks," The Palgrave Handbook of Technological Finance; "Private and Hybrid Blockchains and Applications," The Emerald Handbook of Blockchain for Business); Federal Reserve Bank of Dallas publications ("The Potential Impact of Decentralized Virtual Currency on Monetary Policy"; "Blockchain Technology Disrupting Traditional Records Systems"); working papers ("Bitcoin Reveals Exchange Rate Manipulation and Detects Capital Controls"; "Manufactured Premia: How Universe Construction Creates the Crypto Cross-Section"; "Are Cryptocurrency Markets Price Efficient? Depends on the Data Source").
+- Talks and presentations: central banks and international institutions (Federal Reserve Bank of Atlanta, Federal Reserve Bank of Dallas, De Nederlandsche Bank, FinTech DC at the IMF); academic conferences (American Economic Association, Royal Economic Society, and the Western, Southern, and Eastern Economic Associations, among others); university seminars; policy and industry forums (Monetarium 2, DEconomy in Seoul, the Wharton Crypto-Governance Group, R3 CordaDay, and the Cambridge Centre for Alternative Finance's launch of its Global Cryptoasset reports at CME Group, among others); business economists and business groups (National Association for Business Economics chapters; EconVue, panelist on stablecoins; NABE Chicago, moderator of a panel on stablecoins, the GENIUS Act, and the future of payments).
+- Reports, projects, and applications: four reports for the Cambridge Centre for Alternative Finance (Distributed Ledger Technology Systems: A Conceptual Framework; the Cambridge Digital Mining Industry Report; the 2nd and 3rd Global Cryptoasset Benchmarking Studies); consulting reports (a 150-page report on the macroeconomic, monetary, and fiscal-stability effects of a central bank digital currency, for a client's central bank digital currency project; an 80-page report on stablecoins, with data analysis, for a consulting client); co-led the Cambridge Digital Money Dashboard.
+
+Methods and tools:
+- Models and computational simulation: computational modeling; stylized models of payments and money demand, exchange rates and capital flows, and runs and taxes.
+- Data and measurement: reconciling prices across sources; collecting what no database holds; matching to official benchmarks; validating a new measure; building large series from APIs; cleaning trade-level records. Econometrics: unit-root tests, cointegration and error-correction models, Granger causality, fixed-effects regression.
+- Computational research tools: validating AI-assisted code; AI research workflows; programming and documents.
+
+Advising and outreach:
+- Leadership and service: co-chaired the Emergent Money Systems Working Group of the Cambridge Digital Assets Programme; Board Director for Monetary Policy and Executive Committee Advisor at NABE Chicago; Honorary Non-Visiting Research Fellow, Cambridge Centre for Alternative Finance, 2018 to 2024; faculty advisor to Blockchain Chicago, 2021 to 2024; organized a DEconomy panel on central bank digital currencies and two cryptocurrency sessions for the International Banking, Economics and Finance Association.
+- Guest lectures: graduate (University of Chicago Law School; University of Chicago Masters Program in Computer Science), undergraduate, and community.
+- In the media: news and public radio (BBC, NPR, CBC, Chicago Tribune, WBEZ Chicago, Texas Public Radio, among others); financial and policy press (Bloomberg Government, Global Finance, Nikkei, The Street, Experian); crypto and technology press (CoinDesk, Cointelegraph, The Block, Breaker Mag); press coverage of the reports.
+
+Review and teaching:
+- Evaluation and review: refereed work on digital money and assets for 13 journals and 2 research funders; served on 5 conference selection committees at 2 academic conferences; co-editor of the Eastern Economic Journal special edition; evaluated the curriculum of "Digital Assets for Regulators" for the Cambridge Centre for Alternative Finance.
+- Courses taught: Risk and Benefits of Digitized Money and Assets (Ph.D., Collegio Internazionale Ca' Foscari); Cryptoasset Markets (Financial Mathematics, University of Chicago); International Monetary Systems; Economic Policy Analysis.
+
+## Systematic strategy
+
+I design investment-strategy research and test whether its results survive: whether a backtest holds when the parameters move, and when the strategy runs forward on data it has not seen. The page sets out, to help you judge whether I fit your project, my selected work in this field, the methods and tools I would bring to it, my advising and outreach, and my review and teaching: https://www.digitaleconomyresearch.com/portfolio-systematic-strategy.html
+
+Selected work:
+- Academic journals, chapters, and policy writing: "Financial Regulations and Price Inconsistencies across Bitcoin Markets," Information Economics and Policy; working papers ("Bitcoin Reveals Exchange Rate Manipulation and Detects Capital Controls"; "Manufactured Premia: How Universe Construction Creates the Crypto Cross-Section," with Chelsea Canon; "Robust Search: Exploiting Tolerance To Optimize Trading Strategies").
+- Talks and presentations: Federal Reserve Bank of Dallas; De Nederlandsche Bank; academic conferences and university seminars; Monetarium 2, Washington, where I co-presented the asset-backed currency design.
+- Reports, projects, and applications: strategy and portfolios (asset-backed currency; product proposals; a strategy-family study; bitcoin-gold rotation; attention-driven rotation; risk signals; red-teaming proposed strategies); infrastructure improvements (the Robust Search method; computational speed-ups; a shared backtester; a parameter-sweep pipeline; a scenario-stress engine); AI deliverables (mining the literature with AI; LLM companion packages); student projects on crypto market data; industry research as Lead Research Economist, Confusion Capital, developing on-chain index products.
+
+Methods and tools:
+- Models and computational simulation: parameter search (which settings are worth testing?); scenario simulation (how would it fare in conditions not in the data?); portfolio simulation (what is left after costs?).
+- Data and measurement: reconciling prices across sources; collecting what no database holds; validating a new measure; building point-in-time universes. Econometrics: unit-root tests, cointegration and error-correction models, Granger causality, fixed-effects regression, Newey-West t-statistics. Quantitative investment methods: systematic strategy design; backtesting; robustness tests and local-stability checks (can a backtest result be trusted?); machine-checked proofs in Lean 4 (do the guarantees hold?).
+- Computational research tools: validating AI-assisted code; a multi-agent research system; comparing models; auditable AI workflows; testing with synthetic users; auditing code with AI; avoiding lock-in; AI research workflows; programming, computing, and documents.
+
+Advising and outreach:
+- Guest lectures: Fintech (University of Illinois at Urbana-Champaign).
+- In the media: The Telegraph, Bitcoin News, and Finance Magnates on "Bitcoin Reveals..."; Breaker Mag; Experian; The Street.
+
+Review and teaching:
+- Evaluation and review: reviewed investment methodologies for model risk, survivorship bias, transaction costs, liquidity, and implementation feasibility, translating findings into portfolio and deployment recommendations; served on 3 conference selection committees for the Crypto Asset Lab Conference.
+- Courses taught: Cryptoasset Markets (Financial Mathematics, University of Chicago).
+
+## Economic analysis
+
+I have studied how economies work, in macroeconomic and monetary theory and in microeconomic theory, including capital controls and exchange rates, capital flows, business cycles, trade, and the economics profession itself. The page sets out, to help you judge whether I fit your project, my selected work in this field, the methods and tools I would bring to it, my advising and outreach, and my review and teaching: https://www.digitaleconomyresearch.com/portfolio-economics.html
+
+Selected work:
+- Academic journals, chapters, and policy writing: "Financial Regulations and Price Inconsistencies across Bitcoin Markets," Information Economics and Policy; "Digital Currencies and Central Banks," The Palgrave Handbook of Technological Finance; "The Potential Impact of Decentralized Virtual Currency on Monetary Policy," Federal Reserve Bank of Dallas; "The Job Market for Non-Tenure Track Academic Economists," with Chris Roark, CSWEP News; working papers ("Bitcoin Reveals Exchange Rate Manipulation and Detects Capital Controls"; "The Composition of the Allocation Puzzle through Time"; "Re-evaluating Stylized Business Cycle Facts for Developed and Developing Countries"; "The Effect of Income Inequality on Import Prices"; "Seeking Teachers: Changes in US Academic Economics Department Jobs"; "A Guide to the U.S. Academic Economics Job Market for Teaching-Focused Jobs").
+- Talks and presentations: central banks and international institutions (Federal Reserve Bank of Atlanta, Federal Reserve Bank of Dallas, De Nederlandsche Bank, FinTech DC at the IMF); academic conferences (American Economic Association, Royal Economic Society, and the Western, Southern, and Eastern Economic Associations, among others); university seminars; policy and industry forums; the economics profession.
+- Reports, projects, and applications: the 2nd and 3rd Global Cryptoasset Benchmarking Studies and the Cambridge Digital Mining Industry Report, for the Cambridge Centre for Alternative Finance; a 150-page report on the macroeconomic, monetary, and fiscal-stability effects of a central bank digital currency, for a client's central bank digital currency project.
+
+Methods and tools:
+- Models and computational simulation: computational modeling (policy simulation in general equilibrium; programming macroeconomic models; policy experiments with steady states and transition paths; heterogeneous-firm models and calibration; Bayesian learning and dynamic programming); stylized models (output, money, and growth; consumers, firms, and markets; payments and money demand; exchange rates and capital flows; exchange rates and the balance of payments; runs and taxes; international trade).
+- Data and measurement: reconciling prices across sources; collecting what no database holds; matching to official benchmarks; validating a new measure; building productivity and capital-flow series; building capital stocks; dating growth accelerations; dating business cycles from quarterly output; merging trade, distance, and income-distribution data; classifying job postings; working across standard sources. Econometrics: unit-root tests, cointegration and error-correction models, Granger causality, fixed-effects regression, band-pass filtering, gravity regressions, event-time regressions, random-walk tests.
+- Computational research tools: AI research workflows; programming and documents.
+
+Advising and outreach:
+- Leadership and service: Board of Directors, International Trade and Finance Association, three two-year terms; Board Director for Monetary Policy and Executive Committee Advisor at NABE Chicago; advised Trinity University undergraduate majors and supervised the theses of 31 University of Chicago economics MA students; organized a DEconomy panel on central bank digital currencies and two cryptocurrency sessions for the International Banking, Economics and Finance Association; co-taught the MA Thesis Development Workshop and organized the fall macro MA thesis workshop at the University of Chicago.
+- Guest lectures: undergraduate (University of Chicago; The Ohio State University; Pitzer College).
+- In the media: live programming (BBC, NPR, WBEZ Chicago, Texas Public Radio, Scholars' Circle); podcasts (BBC, CBC, Made in Tech); news and public media (BBC, The Telegraph, Chicago Tribune, Asia Times); financial and policy press (Bloomberg, Bloomberg Government, Nikkei, Forbes Italia, among others); trade press (CoinDesk, Cointelegraph, The Block, The Register, among others); opinion pieces (CoinDesk, CSWEP News).
+
+Review and teaching:
+- Evaluation and review: refereed work for 8 journals and 2 research funders; served on 7 conference selection committees at 4 academic conferences; reviewed the survey analysis in three Cambridge Centre for Alternative Finance reports; reviewed textbooks for their publishers; graded the work of more than 4,400 student enrolments, more than 500 in writing-intensive courses and honors and MA theses; recognition, including second place in the Hardy Third Year Paper Competition, University of Minnesota.
+- Courses taught: from Ph.D. to professional education, including Principles of Macroeconomics, The Elements of Economic Analysis I to III, International Monetary Systems, Economic Policy Analysis, and International Trade, at the University of Chicago, Trinity University, the University of Minnesota, and Collegio Internazionale Ca' Foscari.
+
+## Teaching and evaluation
+
+I teach economics, and I create and evaluate problems: I write the problems and answer keys that test whether students can do economics, grade and review the answers, and referee, select, and edit economic work. The page sets out, to help you judge whether I fit your project, my selected work in this field, the methods and tools I would bring to it, my advising and outreach, and my review and teaching: https://www.digitaleconomyresearch.com/portfolio-assessment.html
+
+Selected work:
+- Academic journals, chapters, and policy writing: "Designing Effective Assessments in Economics Courses: Guiding Principles," The Journal of Economic Education; "Measuring Academic Mindset in Economics Courses," with 25 co-authors, International Review of Economics Education; "The Job Market for Non-Tenure Track Academic Economists," with Chris Roark, CSWEP News; working papers ("Seeking Teachers: Changes in US Academic Economics Department Jobs"; "A Guide to the U.S. Academic Economics Job Market for Teaching-Focused Jobs").
+- Talks and presentations: assessment design (American Economic Association; University of Chicago Center for Teaching and Learning; De La Salle University-Manila); measuring and understanding students (discussant, American Economic Association); other economics education talks (Southern Economic Association Presidential Session; AEA Conference on Teaching and Research in Economic Education; TeachECONference, among others).
+- Reports, projects, and applications. Teaching and evaluating student work: taught 19 courses across four institutions, with classes from 8 to 400 students, ranging from principles to Ph.D. courses; graded the work of more than 4,400 student enrolments, more than 500 in writing-intensive courses and honors and MA theses; examiner and grader for the University of Chicago's undergraduate economics placement exam; reviewed 259 applications to the University of Chicago's MAPSS economics MA program; chaired committees for 9 MA theses. Evaluating professional work: refereed work for 16 journals and 2 research funders across economics, finance, accounting, and management; served on 7 conference selection committees at 4 academic conferences; reviewed textbooks for their publishers; co-edited a special edition of the Eastern Economic Journal; reviewed the survey analysis in three Cambridge Centre for Alternative Finance reports; evaluated the curriculum of "Digital Assets for Regulators"; served on the University of Chicago economics department's macroeconomics curriculum review.
+
+Methods and tools:
+- Creating problems: homework and exams; answer keys; parallel versions; problems built on models; writing and data assignments; practice problems.
+- Designing measures: assessment designed around how students' thinking develops; choosing how to assess; grading schemes.
+- Teaching methods and tools: discussion and peer learning; learning by computing; learning from public data; disclosed AI use; one curriculum across instructors; pedagogy and online teaching.
+
+Advising and outreach:
+- Leadership and service: teaching and learning centers (EnCOREage Workshop, Center for Advanced Study in the Behavioral Sciences, Stanford University; presentations on assessment design and exam writing); university service (the University of Chicago's ad hoc committee on exam accommodation for students with disabilities; built and ran the economics department's hiring of teaching assistants and graders); workshops I organized; advising students (thesis supervisor for 31 economics MA students at the University of Chicago; undergraduate honors theses; letters of recommendation every year I taught at the University of Chicago).
+
+Review and teaching:
+- Evaluation and recognition: teaching evaluations from the University of Chicago, Trinity University, and the University of Minnesota; two Walter W. Heller Outstanding Teaching Awards, Distinguished Instructor eight times, and Distinguished Teaching Assistant, University of Minnesota.
+- Courses taught: Ph.D., master's, undergraduate, professional education, and pre-college courses, from Principles of Macroeconomics to Risk and Benefits of Digitized Money and Assets.
+
+## Optional
+
+- [Gina C. Pieters, Ph.D., llms.txt](https://www.ginapieters.com/llms.txt): The personal site's summary: education, career, selected courses, and all research works.
+- [Gina C. Pieters, Ph.D., CV](https://www.ginapieters.com/cv.html#cv-detailed): The full CV, in the CV page's detailed view; it carries the same text as the PDF.
